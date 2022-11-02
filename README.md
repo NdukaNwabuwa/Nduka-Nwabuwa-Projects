@@ -9,7 +9,3 @@ Given the present day risk of possible fraud in online transaction processing an
 STEPS TAKEN
 
 The dataset was provided in .csv file format and Exloratory Data Analysis (Univariate, Bivariate and Multivariate) was performed to have a better understanding of the dateset and also for better visualization. 3 ML Algorithms (Random Forest, K-Neighbors and Logistic Regression) were used to find the accuracy score. The dataset was further separated into train and test data at 80:20 ratio respectively. It was further evaluated using confusion matrix which gave the outcome of Random Forest (0 FP and 0 FN with an accuracy score-100%) as a better ML Algorithm to be deployed by Blossom Bank to predict online payment fraud.
-
-CHALLENGES
-
-The first method used to get the accuracy scores for the 3 ML Algorithms (Random Forest, K-Neighbors and Logistic Regression) failed as it ended up displaying values for only "Logistic Regression" leaving out the other 2 ML Algorithms. A different method was used to get the accuracy scores for the 3 ML Algorithms at different intervals.
