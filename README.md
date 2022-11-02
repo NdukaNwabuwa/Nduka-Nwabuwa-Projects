@@ -12,4 +12,4 @@ The dataset was provided in .csv file format and Exloratory Data Analysis (Univa
 
 CHALLENGES
 
-The first method used to get the accuracy scores for the 3 ML Algorithms (Random Forest, K-Neighbors and Logistics Regression) failed as it ended up displaying values for only "Linear Regression" leaving out the other 2 ML Algorithms. A different method was used to get the accuracy scores for the 3 ML Algorithms at different intervals.
+The first method used to get the accuracy scores for the 3 ML Algorithms (Random Forest, K-Neighbors and Logistic Regression) failed as it ended up displaying values for only "Linear Regression" leaving out the other 2 ML Algorithms. A different method was used to get the accuracy scores for the 3 ML Algorithms at different intervals.
